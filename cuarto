@@ -1,0 +1,10 @@
+Inicio 
+	var personas []
+	var aux
+	para(var i=0 i<cantidad de personas  i++)
+		if(longitudPersonas[i]<longitudPersonas[i+1])
+		aux=longitudPersonas[i+1]
+	finPara
+
+	mostrar(La mayor edad es "personas[i]")
+Fin
